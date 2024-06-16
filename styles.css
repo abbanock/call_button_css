@@ -90,3 +90,7 @@
         opacity: 0;
     }
 }
+
+.square {
+    border: 1px solid black;
+}
